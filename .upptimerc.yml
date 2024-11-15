@@ -9,6 +9,48 @@ sites:
     url: https://northwest.media
   - name: a1mobilewelder.com
     url: https://a1mobilewelder.com
+  - name: a-rconst.com
+    url: https://a-rconst.com
+  - name: a1mobilewelder.com
+    url: https://a1mobilewelder.com
+  - name: aeraexcavation.com
+    url: https://aeraexcavation.com
+  - name: airportrentaspacellc.com
+    url: https://airportrentaspacellc.com
+  - name: animalclinic.org
+    url: https://animalclinic.org
+  - name: apetparlorofwa.com
+    url: https://apetparlorofwa.com
+  - name: arnzenconstruction.com
+    url: https://arnzenconstruction.com
+  - name: artbeatinc.com
+    url: https://artbeatinc.com
+  - name: asotincountyregionallandfill.com
+    url: https://asotincountyregionallandfill.com
+  - name: asotincountystormwater.com
+    url: https://asotincountystormwater.com 
+  - name: bandbpools.net
+    url: https://bandbpools.net
+  - name: beacon-christian.org
+    url: https://beacon-christian.org
+  - name: beanmarinefabrication.com
+    url: https://beanmarinefabrication.com
+  - name: bearabledentistry.com 
+    url: https://bearabledentistry.com
+  - name: bestbuiltbuilderssupply.com 	
+    url: https://bestbuiltbuilderssupply.com
+  - name: bleedred.com
+    url: https://bleedred.com
+  - name: blpi.com
+    url: https://blpi.com
+  - name: blueribbonlinen.com
+    url: https://blueribbonlinen.com
+  - name: bonebrakeconstruction.com
+    url: https://bonebrakeconstruction.com
+  - name: borderline-lighting.com
+    url: https://borderline-lighting.com
+  - name: borderlinerivercharters.com
+    url: https://borderlinerivercharters.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
