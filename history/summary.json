@@ -4,18 +4,20 @@
     "url": "https://208rvpark.com",
     "icon": "https://icons.duckduckgo.com/ip3/208rvpark.com.ico",
     "slug": "208rvpark-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 475,
-    "timeDay": 475,
-    "timeWeek": 475,
-    "timeMonth": 475,
-    "timeYear": 475,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.84%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 407,
+    "timeDay": 407,
+    "timeWeek": 407,
+    "timeMonth": 407,
+    "timeYear": 407,
+    "dailyMinutesDown": {
+      "2024-11-15": 0
+    }
   },
   {
     "name": "northwest.media",
@@ -40,17 +42,19 @@
     "url": "https://a1mobilewelder.com",
     "icon": "https://icons.duckduckgo.com/ip3/a1mobilewelder.com.ico",
     "slug": "a1mobilewelder-com",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 405,
-    "timeDay": 405,
-    "timeWeek": 405,
-    "timeMonth": 405,
-    "timeYear": 405,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.82%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 274,
+    "timeDay": 274,
+    "timeWeek": 274,
+    "timeMonth": 274,
+    "timeYear": 274,
+    "dailyMinutesDown": {
+      "2024-11-15": 0
+    }
   }
 ]
