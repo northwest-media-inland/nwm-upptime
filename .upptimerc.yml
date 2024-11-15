@@ -4,9 +4,11 @@ repo: nwm-upptime # The name of this repository
 
 sites:
   - name: 208rvpark.com
-    url: https://208rvpark.com/
+    url: https://208rvpark.com
   - name: northwest.media
-    url: https://northwest.media/
+    url: https://northwest.media
+  - name: a1mobilewelder.com
+    url: https://a1mobilewelder.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
