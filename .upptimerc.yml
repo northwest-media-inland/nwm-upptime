@@ -51,6 +51,150 @@ sites:
     url: https://borderline-lighting.com
   - name: borderlinerivercharters.com
     url: https://borderlinerivercharters.com
+  - name: bravaslewiston.com
+    url: https://bravaslewiston.com
+  - name: buildingblockspt.com
+    url: https://buildingblockspt.com
+  - name: burlingamemachine.com
+    url: https://burlingamemachine.com
+  - name: calamshriners.com
+    url: https://calamshriners.com
+  - name: cambio.design
+    url: https://cambio.design
+  - name: candbmusic.com
+    url: https://candbmusic.com
+  - name: cap4action.org
+    url: https://cap4action.org
+  - name: castillodefeliciana.com
+    url: https://castillodefeliciana.com
+  - name: cityofgenesee.com
+    url: https://cityofgenesee.com
+  - name: clarkandfeeney.com
+    url: https://clarkandfeeney.com
+  - name: clarkston-wa.com
+    url: https://clarkston-wa.com
+  - name: clarkstoneducationfoundation.org
+    url: https://clarkstoneducationfoundation.org
+  - name: clearwatercanyoncellars.com
+    url: https://clearwatercanyoncellars.com
+  - name: clearwaterfarms.us
+    url: https://clearwaterfarms.us
+  - name: cookscarco.com
+    url: https://cookscarco.com
+  - name: costasautorepair.com
+    url: https://costasautorepair.com
+  - name: covermetees.com
+    url: https://covermetees.com/
+  - name: crsupplements.com 	
+    url: https://crsupplements.com
+  - name: davesgolfonline.com
+    url: https://davesgolfonline.com
+  - name: daytonlodge.com
+    url: https://daytonlodge.com
+  - name: debcousa.com
+    url: https://debcousa.com
+  - name: dicksonreadymix.com
+    url: https://dicksonreadymix.com
+  - name: dkmullin.com
+    url: https://dkmullin.com
+  - name: doublebarrelexpress.com
+    url: https://doublebarrelexpress.com
+  - name: douglasslawfirm.net
+    url: https://douglasslawfirm.net
+  - name: dropforgeleathercare.com
+    url: https://dropforgeleathercare.com
+  - name: dropforgewoodcare.com
+    url: https://dropforgewoodcare.com
+  - name: dyehardllc.com
+    url: https://dyehardllc.com
+  - name: ecmxpark.com
+    url: https://ecmxpark.com
+  - name: evergem.com
+    url: https://evergem.com
+  - name: everybody-reads.org
+    url: https://everybody-reads.org
+  - name: fishersystems.com
+    url: https://fishersystems.com
+  - name: forum.hotwiredirect.com
+    url: https://forum.hotwiredirect.com
+  - name: framedbykane.com
+    url: https://framedbykane.com
+  - name: framewrk.us
+    url: https://framewrk.us
+  - name: fritzprecisionshooting.com
+    url: https://fritzprecisionshooting.com
+  - name: garfieldcta.com
+    url: https://garfieldcta.com
+  - name: gateway-materials.com
+    url: https://gateway-materials.com
+  - name: gatewaycustomdecking.com
+    url: https://gatewaycustomdecking.com
+  - name: gatewaywinchester.com
+    url: https://gatewaywinchester.com
+  - name: gid-mt.org
+    url: https://gid-mt.org
+  - name: golflgcc.com	
+    url: https://golflgcc.com
+  - name: golfscoring.com
+    url: https://golfscoring.com
+  - name: golws.com
+    url: https://golws.com
+  - name: greco-construction.com
+    url: https://greco-construction.com
+  - name: greenshirts.net
+    url: https://greenshirts.net
+  - name: hayeshouseclarkston.com
+    url: https://hayeshouseclarkston.com
+  - name: hellscanyonapparel.com
+    url: https://hellscanyonapparel.com
+  - name: helpinghandsrescue.org
+    url: https://helpinghandsrescue.org
+  - name: hermistontrailers.com
+    url: https://hermistontrailers.com
+  - name: holyfamilyclarkston.com
+    url: https://holyfamilyclarkston.com
+  - name: homesatcanyoncrest.com
+    url: https://homesatcanyoncrest.com
+  - name: hotwiredirect.com
+    url: https://hotwiredirect.com
+  - name: hudsonslandscaping.com
+    url: https://hudsonslandscaping.com
+  - name: iclowdown.com
+    url: https://iclowdown.com
+  - name: idahofirewise.org
+    url: https://idahofirewise.org
+  - name: idahotrucksales.com
+    url: https://idahotrucksales.com
+  - name: imiproperties.com
+    url: https://imiproperties.com
+  - name: improvelivingston.com
+    url: https://improvelivingston.com
+  - name: imualcv.com
+    url: https://imualcv.com
+  - name: inlandcell.com
+    url: inlandcell.com
+  - name: intermountainfeed.com
+    url: https://intermountainfeed.com
+  - name: jacksonspayitforward.com
+    url: https://jacksonspayitforward.com
+  - name: javastopespresso.com
+    url: https://javastopespresso.com
+  - name: jrass.net
+    url: https://jrass.net
+  - name: jrussellexcavation.com	
+    url: https://jrussellexcavation.com
+  - name: justbreatherdh.com
+    url: https://justbreatherdh.com
+  - name: kandgconstructionllc.com
+    url: https://kandgconstructionllc.com
+  - name: kingsthrones.com
+    url: https://kingsthrones.com
+  - name: larsoncabinetcompany.com
+    url: https://larsoncabinetcompany.com
+  - name: lccrew.com
+    url: https://lccrew.com
+  - name: lctheatre.org
+    url: https://lctheatre.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
