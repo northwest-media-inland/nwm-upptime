@@ -2416,19 +2416,19 @@
     "url": "https://qbhs.org",
     "icon": "https://icons.duckduckgo.com/ip3/qbhs.org.ico",
     "slug": "qbhs-org",
-    "status": "down",
-    "uptime": "0.44%",
-    "uptimeDay": "0.44%",
-    "uptimeWeek": "0.44%",
-    "uptimeMonth": "0.44%",
-    "uptimeYear": "0.44%",
-    "time": 229,
-    "timeDay": 229,
-    "timeWeek": 229,
-    "timeMonth": 229,
-    "timeYear": 229,
+    "status": "up",
+    "uptime": "12.01%",
+    "uptimeDay": "12.01%",
+    "uptimeWeek": "12.01%",
+    "uptimeMonth": "12.01%",
+    "uptimeYear": "12.01%",
+    "time": 899,
+    "timeDay": 899,
+    "timeWeek": 899,
+    "timeMonth": 899,
+    "timeYear": 899,
     "dailyMinutesDown": {
-      "2024-11-16": 2
+      "2024-11-16": 8
     }
   },
   {
